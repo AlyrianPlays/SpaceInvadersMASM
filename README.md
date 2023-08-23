@@ -6,6 +6,7 @@ This Space Invaders clone is programmed with MASM x86 assembly language using 32
 - User-controlled movement with A and D, shooting with spacebar
 - AI-controlled enemies with movement and projectiles
 - Score-keeping, respawn animation, destructable barriers, etc.
+- Fun Fact: code is 1978 lines long, which is the same year Taito initially released the arcade game.  
 
 The technologies explored in this project include:
 
