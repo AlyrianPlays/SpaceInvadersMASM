@@ -19,10 +19,13 @@ The technologies explored in this project include:
 # Pictures
 
 Main Screen
+
 ![Main Screen](https://github.com/AlyrianPlays/SpaceInvadersMASM/blob/master/Screenshot%202023-08-23%20181814.png?raw=true)
 
 Gameplay
+
 ![Gameplay](https://github.com/AlyrianPlays/SpaceInvadersMASM/blob/master/Screenshot%202023-08-22%20231701.png?raw=true)
 
 Game Over
+
 ![Game Over](https://github.com/AlyrianPlays/SpaceInvadersMASM/blob/master/Screenshot%202023-08-23%20181853.png?raw=true)
